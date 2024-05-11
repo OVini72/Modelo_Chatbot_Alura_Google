@@ -19,3 +19,9 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas 
 
 ## Autores
 - Vinícius Vega
+
+## Agradecimentos
+
+- Ana Raquel Fernandes Cunha
+- Fabrício Carraro
+- Luciano Martins
